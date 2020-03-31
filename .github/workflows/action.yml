@@ -37,4 +37,3 @@ jobs:
         twilio_no: ${{ secrets.twilio_no }}
         To_no: ${{ secrets.To_no }}
         To_no_2: ${{ secrets.To_no_2 }}
-  
