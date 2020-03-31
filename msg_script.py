@@ -41,7 +41,7 @@ def main():
                                         from_ = os.getenv("twilio_no"),
                                         to = i
                                         )
-        print(message.sid)
+        print(message.sid) # Message id
 
 # Driver Code.
 if __name__ == "__main__":
