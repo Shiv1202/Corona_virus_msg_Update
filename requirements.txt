@@ -153,7 +153,7 @@ pycurl==7.43.0.3
 PyDictionary==1.5.2
 pyflakes==2.1.1
 pygame==1.9.6
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.4.2
 pyodbc==4.0.27
